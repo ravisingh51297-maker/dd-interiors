@@ -1,0 +1,6 @@
+{
+  "name": "DD Interiors",
+  "description": "Premium Luxury Wall Panels, WPC Louvers, SPC Flooring, and Interior Solutions in Lado Sarai, New Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
